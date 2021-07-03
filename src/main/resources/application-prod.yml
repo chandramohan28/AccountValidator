@@ -1,0 +1,5 @@
+providers:
+  - name: provider1
+    url: http://localhost:8080/v1/api/account/validate
+  - name: provider2
+    url: http://localhost:8080/v1/api/account/validate
